@@ -1,7 +1,7 @@
 {
   "name": "ps-redux",
   "homepage": "https://sharon-zhao.github.io/Redux-project/",
-  "description": "React and Redux Pluralsight course by Cory House",
+  "description": "React and Redux",
   "scripts": {
     "start": "run-p start:dev start:api",
     "start:dev": "webpack-dev-server --config webpack.config.dev.js --port 3000",
