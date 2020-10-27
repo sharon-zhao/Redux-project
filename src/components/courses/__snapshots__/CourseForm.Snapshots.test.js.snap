@@ -84,7 +84,7 @@ exports[`sets submit button label 'Save' when saving is false 1`] = `
         name="category"
         onChange={[MockFunction]}
         type="text"
-        value="JavaScript"
+        value="Django"
       />
     </div>
   </div>
@@ -182,7 +182,7 @@ exports[`sets submit button label 'Saving...' when saving is true 1`] = `
         name="category"
         onChange={[MockFunction]}
         type="text"
-        value="JavaScript"
+        value="Django"
       />
     </div>
   </div>
