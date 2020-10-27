@@ -24,7 +24,7 @@ exports[`sets submit button label 'Save' when saving is false 1`] = `
         name="title"
         onChange={[MockFunction]}
         type="text"
-        value="Securing React Apps with Auth0"
+        value="Xvideo"
       />
     </div>
   </div>
@@ -53,17 +53,17 @@ exports[`sets submit button label 'Save' when saving is false 1`] = `
         <option
           value={1}
         >
-          Cory House
+          Sharon Zhao
         </option>
         <option
           value={2}
         >
-          Scott Allen
+          Todd Wang
         </option>
         <option
           value={3}
         >
-          Dan Wahlin
+          Dan Xie
         </option>
       </select>
     </div>
@@ -122,7 +122,7 @@ exports[`sets submit button label 'Saving...' when saving is true 1`] = `
         name="title"
         onChange={[MockFunction]}
         type="text"
-        value="Securing React Apps with Auth0"
+        value="Xvideo"
       />
     </div>
   </div>
@@ -151,17 +151,17 @@ exports[`sets submit button label 'Saving...' when saving is true 1`] = `
         <option
           value={1}
         >
-          Cory House
+          Sharon Zhao
         </option>
         <option
           value={2}
         >
-          Scott Allen
+          Todd Wang
         </option>
         <option
           value={3}
         >
-          Dan Wahlin
+          Dan Xie
         </option>
       </select>
     </div>
