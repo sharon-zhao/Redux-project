@@ -65,7 +65,7 @@ server.listen(port, () => {
 // Returns a URL friendly slug
 function createSlug(value) {
   return value
-    .replace(/[^a-z0-9_]+/gi, "-")
+    .replace(/[^a-z0-9_]+/gi, ".")
     .replace(/^-|-$/g, "")
     .toLowerCase();
 }
